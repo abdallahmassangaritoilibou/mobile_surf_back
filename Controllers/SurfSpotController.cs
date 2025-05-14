@@ -49,5 +49,47 @@ namespace mobile_surf_back.Controllers
 
             return Ok(spots);
         }
-    }
-}
+    
+
+        [HttpGet("{id:int}")]
+        public ActionResult<SurfSpot> GetById(int id)
+        {
+            string connectionString
+                = $"server={Environment.GetEnvironmentVariable("MYSQL_HOST")};" +
+                  $"database={Environment.GetEnvironmentVariable("MYSQL_DATABASE")};" +
+                  $"user={Environment.GetEnvironmentVariable("MYSQL_USER")};" +
+                  $"password={Environment.GetEnvironmentVariable("MYSQL_PASSWORD")};";
+            using (MySqlConnection conn = new MySqlConnection(connectionString))
+            {
+                conn.Open();
+                string query = "SELECT * FROM SurfSpot WHERE surf_spot_id = @id";
+                using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                {
+                    cmd.Parameters.AddWithValue("@id", id);
+                    using (MySqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (!reader.Read())
+                        {
+                            return NotFound(new { message = $"SurfSpot with l'ID {id} not found." });
+                        }
+
+                        SurfSpot spot = new SurfSpot
+                        {
+                            SurfSpotId = reader.GetInt32("surf_spot_id"),
+                            Destination = reader.GetString("destination")!,
+                            Address = reader.GetString("address")!,
+                            StateCountry = reader.IsDBNull(reader.GetOrdinal("state_country")) ? null : reader.GetString("state_country")!,
+                            DifficultyLevel = reader.IsDBNull(reader.GetOrdinal("difficulty_level")) ? null : (byte?)reader.GetByte("difficulty_level"),
+                            PeakSeasonBegin = reader.IsDBNull(reader.GetOrdinal("peak_season_begin")) ? null : (DateTime?)reader.GetDateTime("peak_season_begin"),
+                            PeakSeasonEnd = reader.IsDBNull(reader.GetOrdinal("peak_season_end")) ? null : (DateTime?)reader.GetDateTime("peak_season_end"),
+                            MagicSeaweedLink = reader.IsDBNull(reader.GetOrdinal("magic_seaweed_link")) ? null : reader.GetString("magic_seaweed_link")!,
+                            CreatedTime = reader.IsDBNull(reader.GetOrdinal("created_time")) ? null : (DateTime?)reader.GetDateTime("created_time"),
+                            GeocodeRaw = reader.IsDBNull(reader.GetOrdinal("geocode_raw")) ? null : reader.GetString("geocode_raw")!
+                        };
+                        return Ok(spot);
+                    }
+                }
+            }
+        }
+    } 
+}                 

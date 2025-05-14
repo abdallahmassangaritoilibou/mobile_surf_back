@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cloud\\AdaTechSchool\\Projet de groupe\\moblie\\mobile_surf_back\\..csproj": {}
+    "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/..csproj": {}
   },
   "projects": {
-    "C:\\Users\\cloud\\AdaTechSchool\\Projet de groupe\\moblie\\mobile_surf_back\\..csproj": {
+    "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cloud\\AdaTechSchool\\Projet de groupe\\moblie\\mobile_surf_back\\..csproj",
+        "projectUniqueName": "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/..csproj",
         "projectName": ".",
-        "projectPath": "C:\\Users\\cloud\\AdaTechSchool\\Projet de groupe\\moblie\\mobile_surf_back\\..csproj",
-        "packagesPath": "C:\\Users\\cloud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cloud\\AdaTechSchool\\Projet de groupe\\moblie\\mobile_surf_back\\obj\\",
+        "projectPath": "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/..csproj",
+        "packagesPath": "/Users/abdallahmassangaritoilibou/.nuget/packages/",
+        "outputPath": "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cloud\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/abdallahmassangaritoilibou/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "DotNetEnv": {
               "target": "Package",
@@ -71,24 +72,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -97,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
