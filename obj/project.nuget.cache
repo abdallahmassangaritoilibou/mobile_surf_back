@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hc1axpuohoE=",
+  "dgSpecHash": "SHoZ8XQ8Yns=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kouak\\OneDrive\\Bureau\\ada\\personal_projects\\mobile_surf_back\\..csproj",
+  "projectFilePath": "C:\\Users\\kouak\\OneDrive\\Bureau\\ada\\group_projects\\mobile_surf_back\\..csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kouak\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\kouak\\.nuget\\packages\\dotnetenv\\3.1.1\\dotnetenv.3.1.1.nupkg.sha512",
