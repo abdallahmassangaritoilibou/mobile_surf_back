@@ -6075,26 +6075,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kouak\\.nuget\\packages\\": {}
+    "/Users/abdallahmassangaritoilibou/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kouak\\OneDrive\\Bureau\\ada\\group_projects\\mobile_surf_back\\..csproj",
+      "projectUniqueName": "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/..csproj",
       "projectName": "MobileSurfBack",
-      "projectPath": "C:\\Users\\kouak\\OneDrive\\Bureau\\ada\\group_projects\\mobile_surf_back\\..csproj",
-      "packagesPath": "C:\\Users\\kouak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kouak\\OneDrive\\Bureau\\ada\\group_projects\\mobile_surf_back\\obj\\",
+      "projectPath": "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/..csproj",
+      "packagesPath": "/Users/abdallahmassangaritoilibou/.nuget/packages/",
+      "outputPath": "/Users/abdallahmassangaritoilibou/Desktop/ADA/project_collectif/mobile_surf_back/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kouak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/abdallahmassangaritoilibou/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6112,7 +6110,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -6146,6 +6145,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.15, 8.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.15, 8.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.15, 8.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6154,7 +6167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
