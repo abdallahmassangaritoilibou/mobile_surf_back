@@ -373,7 +373,7 @@ VALUES
         7,
         1440,
         1084,
-        'https://www.peruforless.com/_next/image?url=https%3A%2F%2Fwww.peruforless.com%2Fimages%2Fchicama-surfers.jpg&w=3840&q=75',
+        'https://dukesurf.com/wp-content/uploads/2018/10/CRC_Aldo_Chirinos_Ben_Reed-3-uai-1493x1120.jpg',
         'cover.jpg',
         2667269,
         'image/jpeg'
@@ -393,7 +393,7 @@ VALUES
         9,
         2500,
         1406,
-        'https://artofsafari.travel/wp-content/uploads/2017/02/Namibia_Damaraland_SkeletonCoast_WildernessSafaris_HoanibSkeletonCoast_LandscapeSkeletonCoast-2.jpg',
+        'https://assets.isu.pub/document-structure/230828091118-c8023adb02454a3246f56e5e072e65cf/v1/18d33e7481f503d8a6fef6fc55f9e479.jpeg?crop&originalHeight=1130&originalWidth=1245&zoom=0',
         'image00006.jpg',
         1494974,
         'image/jpeg'
@@ -403,7 +403,7 @@ VALUES
         10,
         1920,
         1079,
-        'https://www.perfectwavetravel.com/wp-content/uploads/2019/12/Canaries-The-Bubble-1080x578.jpg',
+        'https://blog.lineasromero.com/wp-content/uploads/2021/10/pexels-photo-416676-1024x512.jpeg',
         'f910f8851f2d2d456d43cd3f4f2f2b664bec571e-3839x2462.jpg',
         5985241,
         'image/jpeg'
