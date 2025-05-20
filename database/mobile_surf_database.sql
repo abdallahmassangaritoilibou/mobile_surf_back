@@ -313,7 +313,7 @@ VALUES
         1,
         1920,
         1080,
-        'https://www.realhawaiitours.com/wp-content/uploads/2023/09/Exploring-Banzai-Pipeline_-Hawaiis-Premier-Surf-Spot.jpg',
+        'https://www.yeeew.com/mag/wp-content/uploads/sites/2/2023/03/AdobeStock_337006378-1920x1280.jpeg',
         'Exploring-Banzai-Pipeline_-Hawaiis-Premier-Surf-Spot.jpg',
         688397,
         'image/jpeg'
@@ -323,7 +323,7 @@ VALUES
         2,
         1920,
         1080,
-        'https://www.internationalsurfproperties.com/wp-content/uploads/2024/08/Supertubes-jeffreys-bay-south-africa.jpg',
+        'https://www.jbaysurfview.com/wp-content/uploads/2016/10/lineup_1953Jbay_July07_Frieden.jpg',
         'Supertubes-jeffreys-bay-south-africa.jpg',
         3066389,
         'image/jpeg'
@@ -333,7 +333,7 @@ VALUES
         3,
         2048,
         1365,
-        'https://surfingnz.co.nz/wp-content/uploads/2024/05/354252619_650524493781166_8810513447891679046_n.jpg',
+        'https://live.staticflickr.com/4051/4591043341_c6b99939a1_h.jpg',
         '354252619_650524493781166_8810513447891679046_n.jpg',
         889937,
         'image/jpeg'
@@ -343,7 +343,7 @@ VALUES
         4,
         1559,
         1024,
-        'https://d14fqx6aetz9ka.cloudfront.net/wp-content/uploads/2019/03/30054440/E0I8196-1560x1024.jpg',
+        'https://www.carvemag.com/wp-content/uploads/2022/04/superbank.jpg',
         'E0I8196-1560x1024.jpg',
         1524876,
         'image/jpeg'
@@ -373,7 +373,7 @@ VALUES
         7,
         1440,
         1084,
-        'https://wavelengthmag.com/wp-content/uploads/2020/06/cover.jpg',
+        'https://lh3.googleusercontent.com/_1sPFNGIaa_vWOK70yoptC310I19YoBHM5rbJPCfyXc9luA6RUgpSkU-jlgiTWVjk9f9XEFxMKxG9W0eE2d2keDRDADAmjEqYrXycVcTf_Ds2TpcmWUIZ9zSKpyREYQ62qm7SVW1iBDDjsB7ZMITFQ',
         'cover.jpg',
         2667269,
         'image/jpeg'
@@ -393,7 +393,7 @@ VALUES
         9,
         2500,
         1406,
-        'https://d14fqx6aetz9ka.cloudfront.net/wp-content/uploads/2023/06/22063855/image00006.jpg',
+        'https://surfspots.org/wp-content/uploads/2023/12/maxresdefault-24.jpg',
         'image00006.jpg',
         1494974,
         'image/jpeg'
@@ -403,7 +403,7 @@ VALUES
         10,
         1920,
         1079,
-        'https://cdn.sanity.io/images/we0tdimr/production/f910f8851f2d2d456d43cd3f4f2f2b664bec571e-3839x2462.jpg?rect=0,152,3839,2159&w=1920&h=1080&q=70&auto=format',
+        'https://gretastravels.com/wp-content/uploads/2018/10/Nuno-2067.jpg.webp',
         'f910f8851f2d2d456d43cd3f4f2f2b664bec571e-3839x2462.jpg',
         5985241,
         'image/jpeg'
