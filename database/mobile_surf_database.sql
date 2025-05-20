@@ -323,7 +323,7 @@ VALUES
         2,
         1920,
         1080,
-        'https://www.jbaysurfview.com/wp-content/uploads/2016/10/lineup_1953Jbay_July07_Frieden.jpg',
+        'https://i0.wp.com/thecitylife.org/wp-content/uploads/2022/07/moore_c318A0586jbay19tostee.jpg?fit=1536%2C1024&ssl=1',
         'Supertubes-jeffreys-bay-south-africa.jpg',
         3066389,
         'image/jpeg'
@@ -343,7 +343,7 @@ VALUES
         4,
         1559,
         1024,
-        'https://www.carvemag.com/wp-content/uploads/2022/04/superbank.jpg',
+        'https://img.redbull.com/images/c_crop,w_2304,h_1152,x_0,y_188/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2016/01/27/1331773377601_3/mick-fanning-is-having-a-hell-of-a-summer-holiday',
         'E0I8196-1560x1024.jpg',
         1524876,
         'image/jpeg'
@@ -373,7 +373,7 @@ VALUES
         7,
         1440,
         1084,
-        'https://lh3.googleusercontent.com/_1sPFNGIaa_vWOK70yoptC310I19YoBHM5rbJPCfyXc9luA6RUgpSkU-jlgiTWVjk9f9XEFxMKxG9W0eE2d2keDRDADAmjEqYrXycVcTf_Ds2TpcmWUIZ9zSKpyREYQ62qm7SVW1iBDDjsB7ZMITFQ',
+        'https://www.peruforless.com/_next/image?url=https%3A%2F%2Fwww.peruforless.com%2Fimages%2Fchicama-surfers.jpg&w=3840&q=75',
         'cover.jpg',
         2667269,
         'image/jpeg'
@@ -393,7 +393,7 @@ VALUES
         9,
         2500,
         1406,
-        'https://surfspots.org/wp-content/uploads/2023/12/maxresdefault-24.jpg',
+        'https://artofsafari.travel/wp-content/uploads/2017/02/Namibia_Damaraland_SkeletonCoast_WildernessSafaris_HoanibSkeletonCoast_LandscapeSkeletonCoast-2.jpg',
         'image00006.jpg',
         1494974,
         'image/jpeg'
@@ -403,7 +403,7 @@ VALUES
         10,
         1920,
         1079,
-        'https://gretastravels.com/wp-content/uploads/2018/10/Nuno-2067.jpg.webp',
+        'https://www.perfectwavetravel.com/wp-content/uploads/2019/12/Canaries-The-Bubble-1080x578.jpg',
         'f910f8851f2d2d456d43cd3f4f2f2b664bec571e-3839x2462.jpg',
         5985241,
         'image/jpeg'
