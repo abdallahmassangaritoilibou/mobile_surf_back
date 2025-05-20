@@ -373,7 +373,7 @@ VALUES
         7,
         1440,
         1084,
-        'https://thefreesurfer.com/wp-content/uploads/2018/01/LINEUP_PUNTA_ROCAS_ROMMEL_GONZALES_7-1024x680.jpg',
+        'https://i.ytimg.com/vi/ER9AN6sipYI/maxresdefault.jpg',
         'cover.jpg',
         2667269,
         'image/jpeg'
