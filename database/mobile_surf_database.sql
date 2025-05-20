@@ -373,7 +373,7 @@ VALUES
         7,
         1440,
         1084,
-        'https://dukesurf.com/wp-content/uploads/2018/10/CRC_Aldo_Chirinos_Ben_Reed-3-uai-1493x1120.jpg',
+        'https://thefreesurfer.com/wp-content/uploads/2018/01/LINEUP_PUNTA_ROCAS_ROMMEL_GONZALES_7-1024x680.jpg',
         'cover.jpg',
         2667269,
         'image/jpeg'
@@ -403,7 +403,7 @@ VALUES
         10,
         1920,
         1079,
-        'https://blog.lineasromero.com/wp-content/uploads/2021/10/pexels-photo-416676-1024x512.jpeg',
+        'https://static-resources.mirai.com/wp-content/uploads/sites/1738/20221103083631/SurfCanarias.jpg',
         'f910f8851f2d2d456d43cd3f4f2f2b664bec571e-3839x2462.jpg',
         5985241,
         'image/jpeg'
